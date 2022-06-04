@@ -6,6 +6,10 @@ body{
     margin: auto;
     background-color: black;
 }
+section#portada
+{
+  background-color: tan;  
+}
 section#Box
 {
     width: 200px;

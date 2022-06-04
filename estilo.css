@@ -1,0 +1,99 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    width: 1000px;
+    height: 950px;
+    margin: auto;
+    background-color: black;
+}
+section#Box
+{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: darkgreen;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+section#Banner
+{
+    width: 800px;
+    height: 300px;
+    float: left;
+    background-color: darkturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+section#logo
+{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: tan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+section#login
+{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+section#from
+{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: khaki;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+aside#left
+{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: darksalmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+article
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    background-color: mistyrose;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+aside#right
+{
+    width: 300px;
+    height: 500px;
+    float: left;
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+footer
+{
+    width: 1000px;
+    height: 50px;
+    float: left;
+    background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+p
+{
+  margin-left: 5px;
+  align-content: center;
+  background-color: white;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+}

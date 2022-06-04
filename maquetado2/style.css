@@ -1,0 +1,68 @@
+body
+{
+  padding: 0px;
+  margin: 0px;  
+  width: 750px;
+  height: 850px;
+  margin: auto;
+  background-color: black;
+}
+section#Banner
+{
+    width: 500px;
+    height: 250px;
+    float: left;
+    background-color: firebrick;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+section#logo
+{
+    width: 250px;
+    height: 250px;
+    background-color: teal;
+    float: left;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+nav
+{
+  width: 750px;
+    height: 50px;
+    float: left;
+    background-color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+article
+{
+    width: 450px;
+    height: 400px;
+    float: left;
+    background-color: darkslategray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+aside
+{
+    width: 300px;
+    height: 400px;
+    float: left;
+    background-color: darksalmon;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+footer
+{
+    width: 750px;
+    height: 50px;
+    float: left;
+    background-color: seagreen;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
